@@ -1,4 +1,4 @@
-## O! Hi there ^__^
+Hi new friends!
 
 Lately I have been focusing on learning Javascript primarily, but also a little CSS and HTML too. 
 
@@ -8,8 +8,6 @@ I am always looking to collaborate on projects.  I hope to one day make open-sou
 
 I have a background in Fine Arts / Studio Arts.  Ask me about any artsy thing, I love discuss aesthics and design.
 
-The best way to reach me is thru e-mail.  ( trishedith @ gmail.com )
-
-I use she/her and they/them pronouns.
-
 When I'm not coding I'm probably biking, swimming and drawing :)
+
+The best way to reach me is thru e-mail.  ( trishedith @ gmail.com )
